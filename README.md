@@ -15,7 +15,7 @@
 * User Functionality: Users can create an account. Users can browse and apply for job openings. Users can check the status of their job applications.
 
 ### Database Design:
-* ER Diagram: Entities - Company, User, Application...
+* ER Diagram: Entities - Company, User, Application, etc..
 * Relationships: A company can post multiple jobs, a user can apply to multiple jobs, and each application is linked to a specific job and user.
 * Functional Dependencies: Ensuring the database is normalized by identifying and organizing functional dependencies.
 * Relational Schema: Designing relational schemas based on the ER diagram.
