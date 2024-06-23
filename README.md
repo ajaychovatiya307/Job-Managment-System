@@ -1,6 +1,7 @@
 # Job-Management-System (DBMS)
 
-##### Project assigned by: Prof. Pokhar Mal Jat (DAIICT) College: Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT).
+##### Project assigned by: Prof. Pokhar Mal Jat 
+##### College: Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT).
 ##### Group Members(2): Darshan Gami, Ajay Chovatiya.
 
 ### Project Overview :
