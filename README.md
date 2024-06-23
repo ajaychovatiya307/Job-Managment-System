@@ -2,7 +2,7 @@
 
 ##### Project assigned by: Prof. Pokhar Mal Jat 
 ##### College: Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT).
-##### Group Members(2): Darshan Gami, Ajay Chovatiya.
+##### Group Members: Darshan Gami, Ajay Chovatiya.
 
 ### Project Overview :
 * Name: Job-Management System.
