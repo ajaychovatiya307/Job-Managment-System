@@ -5,9 +5,9 @@
 ##### Group Members: Darshan Gami & Ajay Chovatiya
 
 ### Project Overview :
-* Name: Job-Management System.
-* Technologies Used: PostgreSQL, pgAdmin.
-* Concepts Used: ER Diagram, Functional Dependencies, Relational Database Design.
+* Name: Job-Management System
+* Technologies Used: PostgreSQL, pgAdmin
+* Concepts Used: ER Diagram, Functional Dependencies, Relational Database Design
 * Purpose: To facilitate companies to register and post job openings, and for users to apply for jobs and check their application status.
 
 ### Features :
