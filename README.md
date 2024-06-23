@@ -24,4 +24,4 @@
 * PostgreSQL: Database management system used to implement the relational schema. Writing SQL queries to handle CRUD operations (Create, Read, Update, Delete) for companies, jobs, users, and applications.
 
 ### Application Process :
-Users can apply by selecting a job posting and submitting an application. Companies can review applications and update the application status (e.g., received, pending, accepted, rejected).
+* Users can apply by selecting a job posting and submitting an application. Companies can review applications and update the application status (e.g., received, pending, accepted, rejected).
